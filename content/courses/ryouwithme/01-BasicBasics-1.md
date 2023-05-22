@@ -10,6 +10,7 @@ title: BasicBasics 1
 toc: true
 type: docs
 weight: 2
+
 ---
 
 # An opinionated tour of RStudio
